@@ -15,7 +15,7 @@ For giving me the opportunity to show my skills for their ongoing recruitment pr
 - CSS
 - JavaScript
 ## Demo
-
+Here is the snapshot of the webpage:
 ![Here is the snapshot of the webpage: ](https://github.com/Jahid-Hasan-96/Add-to-Cart/assets/67227023/e137b19f-62e4-47d5-9b81-d6431833d751)
 
 
