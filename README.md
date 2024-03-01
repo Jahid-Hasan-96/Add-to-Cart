@@ -3,13 +3,6 @@
 
 The webpage, replicating the functionality of a fully functional "Add to Cart" feature with a corresponding sidebar. Users can seamlessly manage food items dynamically, including the ability to adjust quantity and delete items.
 
-
-## Acknowledgements
-
- - [Bangla Puzzle Limited](https://www.banglapuzzle.com/)
- 
-For giving me the opportunity to show my skills for their ongoing recruitment process.
-
 ## Languages
 - HTML
 - CSS
